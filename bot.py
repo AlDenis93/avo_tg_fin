@@ -286,7 +286,7 @@ def send_email_uz(chat_id, user_info, file_path):
 # def handle_send_more_button_uz(message):
 #     chat_id = message.chat.id
 #     if message.text == "Botni qayta ishga tushiring":
-#         restart_bot(message)
+#         rstart_bot(message)
 #     else:
 #         # Либо обрабатываем другие варианты
 #         bot.send_message(chat_id, 'Iltimos, bot bilan ishlashni davom ettirish uchun tugmalardan foydalaning.')
