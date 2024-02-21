@@ -76,6 +76,7 @@ def get_name_and_surname_ru(message):
         # Повторный запрос контакта
         send_russian_message(message)
 
+
 def get_name_and_surname_uz(message):
     chat_id = message.chat.id
 
